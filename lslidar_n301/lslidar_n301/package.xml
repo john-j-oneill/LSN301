@@ -6,7 +6,7 @@
     Basic ROS support for the Leishen N301 LIDARs.
   </description>
   <maintainer email="support@lslidar.com">Shenzhen Leishen Intelligence System Co, Ltd</maintainer>
-  <license>BSD</license>
+  <license>GNU General Public License v3.0</license>
   <url type="website">https://wiki.ros.org/lslidar_n301</url>
   <author>Nick Shu</author>
 
